@@ -1,5 +1,5 @@
 {
-	"name": "phpstan/phpstan-src",
+	"name": "enumag/phpstan-src",
 	"description": "PHPStan - PHP Static Analysis Tool",
 	"license": [
 		"MIT"
